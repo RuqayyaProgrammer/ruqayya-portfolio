@@ -17,7 +17,7 @@ I'm a web development enthusiast interested in creating responsive, user-friendl
 Explore my portfolio to see my web development projects and work.
 
 ## Live Portfolio
-[Visit My Portfolio](https://ruqayya-fatema-portfolio.netlify.app/)
+[Visit My Portfolio](https://ruqayya-portfolio.netlify.app/)
 
 ## Contact
 Feel free to connect with me regarding web development opportunities and projects.
